@@ -2,8 +2,7 @@
 
 
 
-
-![ClimaTrack](https://github.com/user-attachments/assets/a1587622-6758-4e39-b463-c2ea8181fdaf)
+![ClimaTrack](https://github.com/user-attachments/assets/bee3a47a-7f74-48b1-aa16-6fb76c755a4f)
 
 
 API used - https://openweathermap.org
