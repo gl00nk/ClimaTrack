@@ -1,8 +1,8 @@
 # ClimaTrack
 
 
+![ClimaTrack](https://github.com/user-attachments/assets/e46df2a7-6f8b-4863-b6ec-5419de349c63)
 
-![ClimaTrack](https://github.com/user-attachments/assets/bee3a47a-7f74-48b1-aa16-6fb76c755a4f)
 
 
 API used - https://openweathermap.org
